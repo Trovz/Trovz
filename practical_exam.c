@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 #define MAX 100
 #define INT_MAX 99999
 
